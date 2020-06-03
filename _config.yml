@@ -20,14 +20,14 @@
 
 title: Shreyas Poyrekar
 email: shreyaspoyrekar@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Computer Engineer & Robotist 
+description: >- # this means to ignore newlines until "baseurl:" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shreyaspoyrekar.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  srpoyrek
 linkedin_username: shreyas-poyrekar-8a7a81a9
 instagram_username: unfortunate_demon
+profilepic: '/img/dp_homepage.jpg'
 
 # Build settings
 theme: minima
