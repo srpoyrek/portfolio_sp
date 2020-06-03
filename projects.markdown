@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
 title: Projects
-permalink: /projects/
+nav_name: "Shreyas Poyrekar | Projects"
+description: 
+order: 3
+group: "navigation"
 ---

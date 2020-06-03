@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
+nav_name: "Shreyas Poyrekar | About"
+description: 
+order: 1
+group: "navigation"
 ---

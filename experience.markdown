@@ -1,5 +1,8 @@
 ---
-layout: page
+layout: default
 title: Experience
-permalink: /experience/
+nav_name: "Shreyas Poyrekar | Experience"
+description: 
+order: 2
+group: "navigation"
 ---
