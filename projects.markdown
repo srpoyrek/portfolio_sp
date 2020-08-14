@@ -6,8 +6,7 @@ description:
 order: 3
 group: "navigation"
 remote_projects: 
-  - Verilog RSIC-V (RV32I Core Instruction set) Implementation
-  - Verilog RSIC-V (RV32I Core Instruction set) Implementation
+  - pipeline_simulator
+  - RISC-V
 ---
-
 {% include projects/index.html %}
